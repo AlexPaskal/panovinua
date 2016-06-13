@@ -1,0 +1,35 @@
+﻿@font-face{
+    font-family: BauhausC;
+    src: url(./fonts/BauhausC.ttf);
+}
+
+/*------LG------*/ @media (min-width: 1200px)
+{
+    
+}
+/*------MD------*/ @media (min-width: 992px) and (max-width: 1200px)
+{
+    
+}
+/*------SM------*/ @media (min-width: 768px) and (max-width: 992px)
+{
+    
+}
+/*------XS------*/ @media (min-width: 350px) and (max-width: 768px) 
+{
+    header{
+        height: 60px;
+    }
+    .navbar-header{
+        height: 60px;
+    }
+}
+@media (max-width: 350px) 
+{
+    header{
+        height: 60px;
+    }
+    .navbar-header{
+        height: 60px;
+    }
+}

@@ -1,0 +1,15 @@
+﻿body {
+    padding: 0px; margin: 0px;
+}
+
+div.firstdiv{
+    height: 100vh;
+    width: 100vw;
+    background-color: #b6ff00;
+    display: table;
+    text-align: center;
+}
+span.logodiv{
+    display: table-cell;
+    vertical-align: middle;
+}

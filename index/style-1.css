@@ -1,0 +1,12 @@
+﻿h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+
+.photo-gallery{
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}

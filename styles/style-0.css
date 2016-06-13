@@ -1,0 +1,166 @@
+﻿*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #a9ff51;
+    text-align: justify;
+    overflow: hidden;
+    padding-right: 0px;
+    padding-left: 0px;
+    font-family: BauhausC;
+    font-size: 20px;
+}
+
+.myclass-left{
+    height: 100%;
+    /*width: 100%;*/
+    padding-bottom:  20px;
+    padding-top:     10px;
+    padding-right:   0px;
+    padding-left:    20px;
+    /*position: fixed;*/
+}
+.myclass-right{
+    overflow: auto;
+    height: 100%;
+    padding-bottom:  10px;
+    padding-top:     10px;
+    padding-right:   0px;
+    padding-left:    0px;
+}
+.content{
+    padding-left: 20px;
+    margin-top: 10px;
+    padding-right: 10px;
+    margin-right: 0px;
+}
+.pf{
+    position: fixed;
+}
+
+.logo-img{
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    background-color: #a4ff9b;
+}
+header{
+    height: 50px;
+    text-align: center;
+    background-color: #a4ff9b;
+}
+
+a.nav-href{
+    font-size: 30px;
+    line-height: 50px;
+    font-family: 'Times New Roman';
+    color: #2d590a;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 0px;
+    text-decoration: none;
+}
+div.nav-href.active{
+    text-decoration: none;
+    color: #2d590a;
+    border-bottom: 7px solid #a9ff51;
+}
+div.nav-href:hover{
+    text-decoration: none;
+    color: #2d590a;
+    border-bottom: 7px solid #a9ff51;
+}
+div.nav-href:active{
+    text-decoration: none;
+    color: #2d590a;
+    border-bottom: 7px solid #a9ff51;
+}
+div.nav-href:visited{
+    text-decoration: none;
+    color: #2d590a;
+    border-bottom: 7px solid #a9ff51;
+}
+div.nav-href.active:hover{
+    text-decoration: none;
+    color: #2d590a;
+    border-bottom: 7px solid #83c73d;
+}
+
+
+.up-nav{
+    background-color: #a4ff9b;
+    border: none;
+}
+.row{
+    padding-right: 0px;
+    margin-left: 0px;
+}
+
+.page-navig{
+    height: 90%;
+    overflow: auto;
+    width: 100%;    
+    padding-bottom:  5px;
+    padding-top:     5px;
+    padding-right:   5px;
+    padding-left:    0px;
+}
+
+div{
+    padding-right: 0px;
+    margin-left: 0px;
+}
+
+img:hover{
+
+}
+img:active{
+
+} 
+
+button{
+    height: 50px;
+    width: 50px;
+}
+.menu-btn:active{
+    background-color: #ffffff;
+    color: #ffffff;
+}
+.menu-btn:hover{
+    background-color: #ffffff;
+    color: #ffffff;
+}
+
+.navbar-collapse{
+    width: 100%;
+}
+
+.page-navig{
+    text-decoration: none;
+    color: #000000;
+}
+.pg-link{
+    text-decoration: none;
+    color: #2d590a;
+}
+a.pg-link:hover{
+    text-decoration: none;
+    color: #2d590a;
+    font-size: larger;
+}
+a.pg-link:active{
+    text-decoration: none;
+    color: #2d590a;
+    font-size: larger;
+}
+a.pg-link:visited{
+    text-decoration: none;
+    color: #2d590a;
+}
+a.pg-link:link{
+    text-decoration: none;
+    color: #2d590a;
+}
